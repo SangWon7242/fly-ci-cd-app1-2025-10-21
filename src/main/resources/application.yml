@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: fly-ci-cd-app1
