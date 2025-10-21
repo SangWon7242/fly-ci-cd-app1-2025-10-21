@@ -22,6 +22,6 @@ public class HomeController {
       throw new RuntimeException(e);
     }
 
-    return "main(version : 1.0.0), hostname : %s".formatted(localHost.getHostName());
+    return "main(version : 1.0.1), hostname : %s".formatted(localHost.getHostName());
   }
 }
